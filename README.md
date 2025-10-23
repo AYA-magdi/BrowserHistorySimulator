@@ -18,8 +18,3 @@ Users can interact with the program **manually** or by **reading commands from a
 - Manual input mode for interactive navigation  
 
 ---
-
-##  How to Run  
-###  Compile the program
-```bash
-g++ main.cpp -o browser
